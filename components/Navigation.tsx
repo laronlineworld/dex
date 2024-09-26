@@ -104,7 +104,6 @@ export default function Navigation() {
             )}
           </DialogContent>
         </Dialog>
-        <Button variant="outline" className="hidden sm:inline-flex">Create wallet</Button>
         <Button variant="ghost" size="icon">
           <span className="text-xl">⋯</span>
         </Button>
